@@ -1,6 +1,6 @@
 # Bamse point
 
-Her kan I finde BP for de forskellige hold.
+Her kan du finde BP for de forskellige hold.
 
 [BP for H8](H8.md)
 
