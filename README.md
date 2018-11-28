@@ -6,4 +6,5 @@ Her kan du finde BP for de forskellige hold.
 
 [BP for H9](H9.md)
 
+[BP for Bamse](Bamse.md)
 
